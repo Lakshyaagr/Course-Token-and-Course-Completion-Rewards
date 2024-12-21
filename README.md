@@ -5,6 +5,8 @@ This project consists of two smart contracts: `CourseToken` and `CourseCompletio
 
 ## Contract Address
 0x0d01DCda7BD351d02880DD29bC7B399821fEe1ed
+![image](https://github.com/user-attachments/assets/52ad2f4b-cc75-4fa5-a7c3-1de8d56e83e9)
+
 
 ## Project Vision
 The aim of this project is to incentivize learning in the field of blockchain development by rewarding students with cryptocurrency tokens upon successfully completing courses. This system creates a win-win situation for instructors and learners by promoting skill-building while integrating blockchain technology.
